@@ -1,0 +1,10 @@
+TouchScreen created
+Monitor turned ON
+Monitor connected via USB-C
+Resolution set to 2560x1440
+Touched at: (120,300)
+Touched at: (400,600)
+TouchScreen Info: Resolution = 2560x1440, Touch points = 2
+Screen cleared of touches
+TouchScreen Info: Resolution = 2560x1440, Touch points = 0
+Monitor turned OFF

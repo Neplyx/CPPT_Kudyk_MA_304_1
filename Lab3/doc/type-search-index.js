@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Kudyk.Lab3","l":"Monitor"},{"p":"KI304.Kudyk.Lab3","l":"Touchable"},{"p":"KI304.Kudyk.Lab3","l":"TouchScreen"},{"p":"KI304.Kudyk.Lab3","l":"TouchScreenApp"}];updateSearchResults();
