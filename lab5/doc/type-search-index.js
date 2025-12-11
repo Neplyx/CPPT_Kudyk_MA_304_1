@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Kudyk.Lab5","l":"CalcWFio"},{"p":"KI304.Kudyk.Lab5","l":"FioApp"}];updateSearchResults();
